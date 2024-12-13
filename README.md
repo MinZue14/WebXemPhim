@@ -12,3 +12,6 @@ nếu kết quả là ko có gì thì chạy:
 2. sudo /opt/lampp/lampp status
 3. sudo /opt/lampp/lampp start
 
+
+http://localhost/ex_starts/B_Website/user/php/
+
