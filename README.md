@@ -1,4 +1,4 @@
 # WebXemPhim
-cd ~/Downloads/
-sudo /opt/lampp/lampp status
-sudo /opt/lampp/lampp start
+1. cd ~/Downloads/
+2. sudo /opt/lampp/lampp status
+3. sudo /opt/lampp/lampp start
